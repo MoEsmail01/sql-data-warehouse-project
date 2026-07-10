@@ -15,12 +15,6 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 3. **Gold Layer**: Houses business-ready data modeled into a star schema required for reporting and analytics.
 
 ---
-## 🔄 ETL Process & Data Flow
-
-Here is the detailed visual representation of the ETL pipeline logic and how data moves across different stages:
-
-![ETL Process](docs/ETL.png)
-
 ### Data Flow Diagram:
 ![Data Flow](docs/data_flow.png)
 
